@@ -1,2 +1,21 @@
-name: Pelmonenmoto
-markdown: kramdown
+source:      .
+destination: ./_site
+
+future:      true
+lsi:         false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink:   /:year/:month/:title
+
+title:       Pel mon en moto
+description: Viatge des de Barcelona a Australia en moto
+author:      Paula & Tia
+email:       pelmonenmoto@gmail.com
+
+exclude:     [_site]
+
+collections:
+  etapes:
+    name: Etapes
+    url: /etapes/
+    output: true
+    permalink: /etapes/:title/
