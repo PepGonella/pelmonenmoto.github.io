@@ -2,7 +2,6 @@
 layout: default
 title: Pel món en moto
 ---
-<!DOCTYPE html>
 <html>
 	<body>
 		<div class="container">
