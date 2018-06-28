@@ -6,8 +6,6 @@ permalink: /etapes/
 
 ## Blog
 
-<p class="centered">I like to see things, do stuff,<br />talk to people, and take pictures.</p> 
-
 {% assign thisyear = 'now' | date: "%Y" %}
 {% assign firstyear = true %}
 
