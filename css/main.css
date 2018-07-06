@@ -43,7 +43,7 @@ ul.posts li {
 }
 
 .travelthumb {
-  border: 1px solid #d3d3d3;
+  border: none;
   border-radius: 5px;
   padding-bottom: 10px;
   text-align:center;
