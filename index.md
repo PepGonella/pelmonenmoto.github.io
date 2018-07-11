@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About us
-permalink: /about/
+layout: default
+title: Pel món en moto
 ---
 
 Here starts the chronicle of this crazy project, we are on the ship sealing from Palma de Mallorca to Barcelona. This is the first step to arrive to Australia! Yessss Australia!!!!!!
@@ -21,3 +20,4 @@ src="https://lh3.googleusercontent.com/LWvNSKS2VWSj6FxrAEfCPePL16b8WAyzH2d1gYvBR
 You can also find us by Instagram at @pelmonenmoto, if you want to contact us just PM us!
 
 <div class="clear">&nbsp;</div>
+
