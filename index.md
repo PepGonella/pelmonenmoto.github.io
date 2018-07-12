@@ -20,4 +20,3 @@ src="https://lh3.googleusercontent.com/LWvNSKS2VWSj6FxrAEfCPePL16b8WAyzH2d1gYvBR
 You can also find us by Instagram at @pelmonenmoto, if you want to contact us just PM us!
 
 <div class="clear">&nbsp;</div>
-
