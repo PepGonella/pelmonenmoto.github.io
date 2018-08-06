@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: rgb(224 165 121);
 }
 a:hover {
     text-decoration: underline;
@@ -113,5 +113,6 @@ h4 {
 }
 
 h3 {
-  color: rgb(224 165 121);
+  font-size: 3em;
+  color: #c15807;
 }
