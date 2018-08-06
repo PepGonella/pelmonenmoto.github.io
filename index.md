@@ -3,6 +3,8 @@ layout: default
 title: Pel món en moto
 ---
 
+<img src="../pictures/mapa_fisico_mundo2.png" style="width:90%;height:auto;">
+
 Here starts the chronicle of this crazy project, we are on the ship sealing from Palma de Mallorca to Barcelona. This is the first step to arrive to Australia! Yessss Australia!!!!!!
 
 For the ones that don't know us, we are Tià and Paula. We just quit our jobs because we are going to travel half world with our motorbike from Mallorca. By the way it's the first time that we leave Europe, sounds interesting isn't it?
