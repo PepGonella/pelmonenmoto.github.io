@@ -71,9 +71,9 @@ ul.posts li {
 }
 
 .content {
-  border-radius: 0 0 20px 20px;
+  border-radius: 0 0 10px 10px;
   background-color: rgb(33, 14, 5);
-  padding: 40px 60px;
+  padding: 20px 30px;
 }
 
 .container.page {
