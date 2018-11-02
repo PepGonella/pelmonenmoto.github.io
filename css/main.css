@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: rgb(224 165 121);
+    color: rgb(12 18 12);
 }
 a:hover {
     text-decoration: underline;
@@ -26,7 +26,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: rgb(224 165 121);
+    color: rgb(12 18 12);
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -72,7 +72,7 @@ ul.posts li {
 
 .content {
   border-radius: 0 0 10px 10px;
-  background-color: rgb(33, 14, 5);
+  background-color: rgb(251, 251, 252);
   padding: 20px 30px;
 }
 
@@ -114,7 +114,7 @@ h4 {
 
 h3 {
   font-size: 3em;
-  color: #c15807;
+  color:rgb(12 18 12));
 }
 
 .PageNavigation {
