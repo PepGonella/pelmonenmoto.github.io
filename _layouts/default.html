@@ -28,5 +28,8 @@
 	        		<li><a href="https://github.com/pelmonenmoto"style="color: rgb(219, 115, 43)">github.com/pelmonenmoto</a></li>
 				</ul>
 			</footer>
+			{% if jekyll.environment == 'production' %}	
+			{% include analytics.html %}
+			{% endif %}
 		</body>
 	</html>
