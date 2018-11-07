@@ -1,6 +1,5 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    font-family: "Raleway", sans-serif;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -14,7 +13,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: rgb(12 18 12);
+    color: rgb(100 100 100);
 }
 a:hover {
     text-decoration: underline;
@@ -67,13 +66,15 @@ ul.posts li {
 }
 
 .container { 
+  margin: 0px auto;
+  width: 70%;
   max-width: 960px;
 }
 
 .content {
   border-radius: 0 0 10px 10px;
-  background-color: rgb(251, 251, 252);
-  padding: 20px 30px;
+  background-color: rgb(247, 247, 251);
+  padding: 10px 30px;
 }
 
 .container.page {
@@ -114,7 +115,7 @@ h4 {
 
 h3 {
   font-size: 3em;
-  color:rgb(12 18 12));
+  color:rgb(12 18 12);
 }
 
 .PageNavigation {

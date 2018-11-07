@@ -4,8 +4,6 @@ title: Blog
 permalink: /etapes/
 ---
 
-<div class="clear">&nbsp;</div>
-
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats reversed %}
   <div id="#{{ category[0] }}"></div>
