@@ -3,7 +3,7 @@ layout: default
 title: Pel món en moto
 ---
 
-<img src="../pictures/mapa_fisico_mundo2.png" style="width:90%;height:auto;">
+<img src="../pictures/mapa_fisico_mundo2.png" style="width:100%;height:auto;">
 
 Here starts the chronicle of this crazy project, we are on the ship sealing from Palma de Mallorca to Barcelona. This is the first step to arrive to Australia! Yessss Australia!!!!!!
 
