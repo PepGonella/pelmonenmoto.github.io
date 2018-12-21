@@ -4,7 +4,6 @@ destination: ./_site
 future:      true
 lsi:         false
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink:   /:categories/:title
 
 title:       Pel mon en moto
 description: Viatge des de Barcelona a Australia en moto
