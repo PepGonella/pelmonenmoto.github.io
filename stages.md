@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Diary
+permalink: /stages/
 ---
 
 {% assign sorted_cats = site.stages | group_by: "region" %}

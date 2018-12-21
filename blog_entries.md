@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+permalink: /blog_entries/
 ---
 
 {% assign sorted_cats = site.blog_entries | group_by: "region" %}
