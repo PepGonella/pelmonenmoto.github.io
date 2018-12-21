@@ -1,17 +1,7 @@
 ---
-layout: page
+layout: default
 ---
 
-<div style="font-family: Playfair Display, serif;font-size: 51px;text-align:center; padding: 30px 0 0 0;color: rgb(12, 18, 12)">{{ page.location }} - {{ page.date | date: "%B %Y"}}</div>
-<h4 style="margin-bottom: 0px;padding: 0 0 30px 0;text-align:center;color: rgb(12, 18, 12)">{{ page.title }}</h4>
-
-{{ content }}
-
-<div class="PageNavigation">
-    {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-    {% endif %}
-    {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-    {% endif %}
-</div>
+<section class="content">
+  {{ content }}
+</section>
