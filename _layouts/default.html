@@ -10,28 +10,38 @@
 				<div style="margin: 0 auto">
 					<div style="max-width: 75%;float:left;">
 						<ul>
-							<li><a href="/"style="color: rgb(55, 55, 55)">HOME</a></li>
 							{% if page.url contains '/es/' %}
 							{% assign lang_string = '/es' %}
+							<li><a href="{{site.baseurl}}{{lang_string}}/"style="color: rgb(55, 55, 55)">HOME</a></li>
+							{% else %}
+							{% if page.url == '/es' %}
+							{% assign lang_string = '/es' %}
+							<li><a href="{{site.baseurl}}{{lang_string}}/"style="color: rgb(55, 55, 55)">HOME</a></li>
 							{% else %}
 							{% assign lang_string = '/en' %}
+							<li><a href="{{site.baseurl}}/"style="color: rgb(55, 55, 55)">HOME</a></li>
 							{% endif %}
-							<li><a href="{{site.baseurl}}{{lang_string}}/motorbike/"style="color: rgb(55, 55, 55)">MOTORBIKE</a></li>
-							<li><a href="{{site.baseurl}}{{lang_string}}/equipement/"style="color: rgb(55, 55, 55)">EQUIPEMENT</a></li>
-							<li><a href="{{site.baseurl}}{{lang_string}}/blog/"style="color: rgb(55, 55, 55)">BLOG</a></li>
-							<li><a href="{{site.baseurl}}{{lang_string}}/diary/"style="color: rgb(55, 55, 55)">DIARY</a></li>
+							{% endif %}
+							<li><a href="{{site.baseurl}}{{lang_string}}/motorbike/"style="color: rgb(55, 55, 55)">{{site.data.languages[page.lang].motorbike}}</a></li>
+							<li><a href="{{site.baseurl}}{{lang_string}}/equipement/"style="color: rgb(55, 55, 55)">{{site.data.languages[page.lang].equipment}}</a></li>
+							<li><a href="{{site.baseurl}}{{lang_string}}/blog/"style="color: rgb(55, 55, 55)">{{site.data.languages[page.lang].blog}}</a></li>
+							<li><a href="{{site.baseurl}}{{lang_string}}/diary/"style="color: rgb(55, 55, 55)">{{site.data.languages[page.lang].diary}}</a></li>
 						</ul>
 					</div>
 					<div style="max-width: 25%;float:right;">
 						<ul>
 							{% if page.url == '/' %}
-							{% assign page_es = site.baseurl | append: '/es' %}
+							{% assign page_es = site.baseurl | append: '/es/' %}
 							{% else %}
 							{% assign page_es = page.url | replace: "/en/", "/es/" %}
 							{% endif %}
-							{% assign page_en = page.url | replace: "/es/", "/en/" %}
 							<li><a href="{{site.baseurl}}{{page_es}}"><img src="/pictures/es_ico.png" style="max-height:25px;object-fit: contain" alt=""></a></li>
+							{% if page.url == "/es" %}
+							<li><a href="{{site.baseurl}}/"><img src="/pictures/en_ico.png" style="max-height:25px;object-fit: contain" alt=""></a></li>
+							{% else %}
+							{% assign page_en = page.url | replace: "/es/", "/en/" %}
 							<li><a href="{{site.baseurl}}{{page_en}}"><img src="/pictures/en_ico.png" style="max-height:25px;object-fit: contain" alt=""></a></li>
+							{% endif %}
 						</ul>
 					</div>
 				</div>
