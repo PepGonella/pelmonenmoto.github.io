@@ -1,0 +1,25 @@
+---
+layout: default
+title: Pel món en moto
+permalink: /es
+---
+
+<img src="../pictures/mapa_fisico_mundo2.png" style="width:100%;height:auto;">
+
+Aquí empieza la crónica de nuestro proyecto loco, estamos en el barco que nos lleva de Palma de Mallorca a Barcelona. Este es el primer paso para llegar a Australia! Siiiii Australia!!!!!!
+
+Para los que no nos conocen, somos Tià y Paula. Hemos dejado nuestros trabajos porque vamos a viajar por la mitad del mundo con nuestra moto desde Mallorca. Por cierto, es la primera vez que saldremos de Europa. Suena interesante, no?
+
+<p><a
+href="https://lh3.googleusercontent.com/CLZhlVEaNTLyOP-Qj8liHuD-Uozhv9TUFq-V7QQ4QR_tX8Qc9gz0DZBIaruQ5yOdUAVRTGB9pok55KkRrWcE6ygPeb1UKBWTkhV9B8p_7zMyIb3n196_-vXcdVtICItjYPS_ceZTFtuPeRsgwbyiloAZ4iiM6jXfNHVsSaqdYqEGR6UEZAab5_iXKCwbsyzdnJlaeD7qoFRHRcRxhc34HEDpgVxWEGvVxnhJT2bdbHgM2G3pLk36P-BBICxtXnLC7sy6zJRHfu9KQOj8Wd3Kr5XDOt-R102U2C7xd2qJe4JXD0wo9V7UO6baYIQ64uzz5CIJu2dsTpgSeulwkq89zrMZ9V-ta0Z-15nyLZS1iyIdnZYdK45irOSDFg23WJcnRGUaVF38fd_cveFYpXJ1-EBhqzUgE-bOWoiVbUD1YHJ7kprN9KPi7bDdPpKTGca8pFzr-FsXfLOJ1FPVOfMCRBxfmsLWrEF4EHxS4JJR7SEHr0NltSdYYJk4eEN2MXBiSmPgawdeqAhPP2lwunIz8YC6Vx5rxzbtuxcFGyFnpm0shk60YaATqHNXcEq2CetXy-ZBQQ2V5Tp7rIhxMsxBe5kt26-tfbBBrnQPZ_SJ7N1j9pneTJ9mcRNDqV5xKgp0OUVpcxT3BTZkPTTAc0yDZEHeSsaObSbXlA=w1059-h794-no"><img 
+src="https://lh3.googleusercontent.com/CLZhlVEaNTLyOP-Qj8liHuD-Uozhv9TUFq-V7QQ4QR_tX8Qc9gz0DZBIaruQ5yOdUAVRTGB9pok55KkRrWcE6ygPeb1UKBWTkhV9B8p_7zMyIb3n196_-vXcdVtICItjYPS_ceZTFtuPeRsgwbyiloAZ4iiM6jXfNHVsSaqdYqEGR6UEZAab5_iXKCwbsyzdnJlaeD7qoFRHRcRxhc34HEDpgVxWEGvVxnhJT2bdbHgM2G3pLk36P-BBICxtXnLC7sy6zJRHfu9KQOj8Wd3Kr5XDOt-R102U2C7xd2qJe4JXD0wo9V7UO6baYIQ64uzz5CIJu2dsTpgSeulwkq89zrMZ9V-ta0Z-15nyLZS1iyIdnZYdK45irOSDFg23WJcnRGUaVF38fd_cveFYpXJ1-EBhqzUgE-bOWoiVbUD1YHJ7kprN9KPi7bDdPpKTGca8pFzr-FsXfLOJ1FPVOfMCRBxfmsLWrEF4EHxS4JJR7SEHr0NltSdYYJk4eEN2MXBiSmPgawdeqAhPP2lwunIz8YC6Vx5rxzbtuxcFGyFnpm0shk60YaATqHNXcEq2CetXy-ZBQQ2V5Tp7rIhxMsxBe5kt26-tfbBBrnQPZ_SJ7N1j9pneTJ9mcRNDqV5xKgp0OUVpcxT3BTZkPTTAc0yDZEHeSsaObSbXlA=w1059-h794-no" class="oversize" alt=""></a></p>
+
+La escritora es Paula (también en Inglés) y el técnico es Tià. Él hace la magia para que esto funcione. Respecto a los roles en la moto... él conduce y yo disfruto las vistas (Voy de paquete!). Bueno, para ser sincera no es tan fácil, conducir una moto es un trabajo en equipo, así que no me puedo dormir.
+
+<p><a
+href="https://lh3.googleusercontent.com/LWvNSKS2VWSj6FxrAEfCPePL16b8WAyzH2d1gYvBRa3dJa5haMDByEh9tlRz_nacIwXFRUg6OfuWp_VCCeaxIwdTUv29i9OmR75QTtYUXjMJa9CusUBFUv64Rtorf7P4YCyRlKvpK_-fNM_LNhCXlAcGmpLMmglMkg-Lq5rAsMbUehdrAs2LBhJi1KtQlOS0lGCfz0JJnQgNfNyc096WrUadtJ8I9Qyd0aLLC4SaB0CkDUyhOtYcx9rYQ5cwXrwqcDKz4NvmGuO6U7Ro1vh3PGaAmsy4ZfqxpbaRihP3EOaO-2uAeTcr7ba8YVVLeD1-IV3qiRZTBPZPuI7maEq8ua4tEBM7ieG4ej1BtsvEECjuaYqtxtZbbqtsdHuZGFGWvHnfAN44jEoJezp3_qYA-qpqqFaecnRP-imeWdxgFh_33UqEBP2veU7yP5IEb5Ojs1J6xVvvYKJsJb6mIyEk3rIzIQKTi6jI80JDXYOQGBuO5r6c5i1U_vlj-JTHPGbCFdoAi3wczvebkyCNaWzG5lfFL-jpNdN8mCRswGvFs1cs-9IG-okhIVcT7T0HBJmffKbcopbcMJKQBt9y9FzGVToevlIf7esRQCSuyk4n6nWigzYmqdyyRKZNaIGFoYtuEFEeDA32lYkOBdy3tFVTCB2uPJ1-66UMNQ=w596-h794-no"><img 
+src="https://lh3.googleusercontent.com/LWvNSKS2VWSj6FxrAEfCPePL16b8WAyzH2d1gYvBRa3dJa5haMDByEh9tlRz_nacIwXFRUg6OfuWp_VCCeaxIwdTUv29i9OmR75QTtYUXjMJa9CusUBFUv64Rtorf7P4YCyRlKvpK_-fNM_LNhCXlAcGmpLMmglMkg-Lq5rAsMbUehdrAs2LBhJi1KtQlOS0lGCfz0JJnQgNfNyc096WrUadtJ8I9Qyd0aLLC4SaB0CkDUyhOtYcx9rYQ5cwXrwqcDKz4NvmGuO6U7Ro1vh3PGaAmsy4ZfqxpbaRihP3EOaO-2uAeTcr7ba8YVVLeD1-IV3qiRZTBPZPuI7maEq8ua4tEBM7ieG4ej1BtsvEECjuaYqtxtZbbqtsdHuZGFGWvHnfAN44jEoJezp3_qYA-qpqqFaecnRP-imeWdxgFh_33UqEBP2veU7yP5IEb5Ojs1J6xVvvYKJsJb6mIyEk3rIzIQKTi6jI80JDXYOQGBuO5r6c5i1U_vlj-JTHPGbCFdoAi3wczvebkyCNaWzG5lfFL-jpNdN8mCRswGvFs1cs-9IG-okhIVcT7T0HBJmffKbcopbcMJKQBt9y9FzGVToevlIf7esRQCSuyk4n6nWigzYmqdyyRKZNaIGFoYtuEFEeDA32lYkOBdy3tFVTCB2uPJ1-66UMNQ=w596-h794-no" class="oversize" alt=""></a></p>
+
+También nos podéis encontrar en Instagram en @pelmonenmoto, si queréis contactarnos por privado.
+
+<div class="clear">&nbsp;</div>

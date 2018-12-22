@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Blog
-permalink: /blog_entries/
+permalink: /en/blog/
 ---
 
-{% assign sorted_cats = site.blog_entries | group_by: "region" %}
+{% assign sorted_cats = site.blog_entries_en | group_by: "region" %}
 {% for category in sorted_cats reversed %}
   
   <div id="#{{ category.name }}"></div>

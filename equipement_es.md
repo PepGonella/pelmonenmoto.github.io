@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Equipement
-permalink: /equipement/
+permalink: /es/equipement/
 ---
 
-## Coming soon!
+## Próximamente
 
 <div class="clear">&nbsp;</div>

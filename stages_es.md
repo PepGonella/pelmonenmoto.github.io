@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Diary
-permalink: /stages/
+permalink: /es/diary/
 ---
 
-{% assign sorted_cats = site.stages | group_by: "region" %}
+{% assign sorted_cats = site.stages_es | group_by: "region" %}
 {% for category in sorted_cats reversed %}
   
   <div id="#{{ category.name }}"></div>
