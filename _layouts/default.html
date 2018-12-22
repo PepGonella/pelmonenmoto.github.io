@@ -11,17 +11,27 @@
 					<div style="max-width: 75%;float:left;">
 						<ul>
 							<li><a href="/"style="color: rgb(55, 55, 55)">HOME</a></li>
-							<li><a href="{{site.baseurl}}/motorbike/"style="color: rgb(55, 55, 55)">MOTORBIKE</a></li>
-							<li><a href="{{site.baseurl}}/equipement/"style="color: rgb(55, 55, 55)">EQUIPEMENT</a></li>
-							<li><a href="{{site.baseurl}}/blog_entries/"style="color: rgb(55, 55, 55)">BLOG</a></li>
-							<li><a href="{{site.baseurl}}/stages/"style="color: rgb(55, 55, 55)">DIARY</a></li>
+							{% if page.url contains '/es/' %}
+							{% assign lang_string = '/es' %}
+							{% else %}
+							{% assign lang_string = '/en' %}
+							{% endif %}
+							<li><a href="{{site.baseurl}}{{lang_string}}/motorbike/"style="color: rgb(55, 55, 55)">MOTORBIKE</a></li>
+							<li><a href="{{site.baseurl}}{{lang_string}}/equipement/"style="color: rgb(55, 55, 55)">EQUIPEMENT</a></li>
+							<li><a href="{{site.baseurl}}{{lang_string}}/blog/"style="color: rgb(55, 55, 55)">BLOG</a></li>
+							<li><a href="{{site.baseurl}}{{lang_string}}/diary/"style="color: rgb(55, 55, 55)">DIARY</a></li>
 						</ul>
 					</div>
 					<div style="max-width: 25%;float:right;">
 						<ul>
-							<li><a href="mailto:pelmonenmoto@gmail.com"style="color: rgb(55, 55, 55)">{% include social-icon.html icon="Email" %}</a></li>
-							<li><a href="https://github.com/pelmonenmoto"style="color: rgb(55, 55, 55)">{% include social-icon.html icon="Github" %}</a></li>
-							<li><a href="https://www.instagram.com/pelmonenmoto/?hl=es">{% include social-icon.html icon="Instagram" %}</a></li>
+							{% if page.url == '/' %}
+							{% assign page_es = site.baseurl | append: '/es' %}
+							{% else %}
+							{% assign page_es = page.url | replace: "/en/", "/es/" %}
+							{% endif %}
+							{% assign page_en = page.url | replace: "/es/", "/en/" %}
+							<li><a href="{{site.baseurl}}{{page_es}}"><img src="/pictures/es_ico.png" style="max-height:25px;object-fit: contain" alt=""></a></li>
+							<li><a href="{{site.baseurl}}{{page_en}}"><img src="/pictures/en_ico.png" style="max-height:25px;object-fit: contain" alt=""></a></li>
 						</ul>
 					</div>
 				</div>
@@ -34,6 +44,15 @@
 			{{ content }}
 			
 			</div><!-- /.container -->
+			<footer>
+				<div style="max-width: 25%;float:right;">
+					<ul>
+						<li><a href="mailto:pelmonenmoto@gmail.com"style="color: rgb(55, 55, 55)">{% include social-icon.html icon="Email" %}</a></li>
+						<li><a href="https://github.com/pelmonenmoto"style="color: rgb(55, 55, 55)">{% include social-icon.html icon="Github" %}</a></li>
+						<li><a href="https://www.instagram.com/pelmonenmoto/?hl=es">{% include social-icon.html icon="Instagram" %}</a></li>
+					</ul>
+				</div>
+			</footer>
 			{% if jekyll.environment == 'production' %}	
 			{% include analytics.html %}
 			{% endif %}

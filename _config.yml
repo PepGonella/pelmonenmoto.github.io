@@ -13,15 +13,15 @@ email:       pelmonenmoto@gmail.com
 exclude:     [_site]
 
 collections:
-  stages:
-    relative_directory: 
-    name: Stages
-    url: /stage/
+  stages_en:
     output: true
-    permalink: /stages/:title
-    collections_dir: stages
-  blog_entries:
-    name: blog_entries
-    url: /blog_entries/
+    permalink: /en/diary/stages/:title
+  stages_es:
     output: true
-    collections_dir: blog_entries
+    permalink: /es/diary/stages/:title
+  blog_entries_en:
+    output: true
+    permalink: /en/blog/entries/:title
+  blog_entries_es:
+    output: true
+    permalink: /es/blog/entries/:title
