@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Diary
+lang: es
 permalink: /es/diary/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pel món en moto
+lang: es
 permalink: /es
 ---
 

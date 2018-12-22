@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+lang: en
 permalink: /en/blog/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Equipement
+lang: es
 permalink: /es/equipement/
 ---
 

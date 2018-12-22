@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pel món en moto
+lang: en
 ---
 
 <img src="../pictures/mapa_fisico_mundo2.png" style="width:100%;height:auto;">

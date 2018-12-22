@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Motorbike
+lang: es
 permalink: /es/motorbike/
 ---
 
